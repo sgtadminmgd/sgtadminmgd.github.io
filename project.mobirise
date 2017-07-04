@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "Eventos.html",
-    "name": "My Site",
+    "currentPage": "Jueces.html",
+    "name": "Tribunal Administrativo del Magdalena",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,8 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 45,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -100,13 +102,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -135,7 +137,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -165,7 +167,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -256,13 +258,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -291,7 +293,7 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -321,7 +323,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -354,8 +356,8 @@
     },
     "Funcionarios.html": {
       "settings": {
-        "title": "Tribunal Administrativo del Magdalena",
-        "meta_descr": "Tribunal Administrativo del Magdalena",
+        "title": "Magistrados ",
+        "meta_descr": "Magistrados",
         "order": 3
       },
       "components": [
@@ -384,13 +386,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -419,7 +421,7 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -449,7 +451,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -457,7 +459,9 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "46px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -499,7 +503,7 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p>Actualmente, el Tribunal Administrativo del magdalena se encuentra conformado de la siguiente forma:</p><p><br></p><p><br></p><p>Dra. Maribel Mendoza Jimenez</p><p>Presidente del Tribunal Administrativo</p><p>Magistrada del Despacho 03</p><p><br></p><p>------------------------------------------</p><p><br></p><p>Dra. Maria Victoria Quiñones Triana</p><p>Magistrada del Despacho 01</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Adonay Ferrari Padilla</p><p>Magistrado del Despacho 02</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Dexter Emilio Cuello</p><p>Magistrado del Despacho 04</p><p><br></p><p><br></p></blockquote>",
+          "text": "<blockquote><p>Actualmente, el Tribunal Administrativo del Magdalena se encuentra conformado de la siguiente forma:</p><p><br></p><p><br></p><p>Dra. Maribel Mendoza Jimenez</p><p>Presidente del Tribunal Administrativo</p><p>Magistrada del Despacho 03</p><p><br></p><p>------------------------------------------</p><p><br></p><p>Dra. Maria Victoria Quiñones Triana</p><p>Magistrada del Despacho 01</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Adonay Ferrari Padilla</p><p>Magistrado del Despacho 02</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Dexter Emilio Cuello</p><p>Magistrado del Despacho 04</p><p><br></p><p><br></p></blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
               "font-size": "36px",
@@ -547,8 +551,8 @@
     },
     "Relatoria.html": {
       "settings": {
-        "title": "Tribunal Administrativo del Magdalena",
-        "meta_descr": "Tribunal Administrativo del Magdalena",
+        "title": "Relatoria",
+        "meta_descr": "Relatoria",
         "order": 5
       },
       "components": [
@@ -577,13 +581,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -612,7 +616,7 @@
           "_name": "menu",
           "_anchor": "menu-y",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -642,7 +646,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -680,8 +684,8 @@
     },
     "Contactenos.html": {
       "settings": {
-        "title": "Tribunal Administrativo del Magdalena",
-        "meta_descr": "Tribunal Administrativo del Magdalena",
+        "title": "Contactenos",
+        "meta_descr": "Contactenos",
         "order": 7
       },
       "components": [
@@ -710,13 +714,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -745,7 +749,7 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -775,7 +779,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -873,8 +877,8 @@
     },
     "Eventos.html": {
       "settings": {
-        "title": "Tribunal Administrativo del Magdalena",
-        "meta_descr": "Tribunal Administrativo del Magdalena",
+        "title": "Eventos",
+        "meta_descr": "Eventos",
         "order": 6
       },
       "components": [
@@ -903,13 +907,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -938,7 +942,7 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -968,7 +972,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1049,6 +1053,186 @@
             }
           },
           "_anchor": "contacts2-k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Calle 20 No 2A-20 Santa Marta.",
+              "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Direccion</strong><br>\nCalle 20 No. 2a-20<br>\nSanta Marta, Magalena<br><br><br>\n<strong>Contacto</strong><br>\nEmail: sgtadminmgd@notificacionesrj.gov.co<br>Telefono: (5)4213901<br>\nFax: (5)4213901",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Enlaces de Interes</strong></p><ul><li><a href=\"http://www.ramajudicial.gov.co\" target=\"_blank\">Portal Rama Judicial</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.consejodeestado.gov.co\" target=\"_blank\">Consejo De Estado</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://procesojudicial.ramajudicial.gov.co/Justicia21/\" target=\"_blank\">Consulta de Procesos</a></li><br></ul>"
+        }
+      ]
+    },
+    "Jueces.html": {
+      "settings": {
+        "title": "Jueces Administrativos",
+        "meta_descr": "Jueces Administrativos",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".lead P": {
+              "color": "#ffffff",
+              "font-size": "24px",
+              "text-align": "left",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-18",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/edificiogalaxia-2000x1055.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "JUECES JUZGADOS ADMISNISTRTIVOS<br><br>",
+          "text": "<br><p>Juzgado 01 Administrativo: &nbsp; &nbsp;Dra. Saine Mendoza Oñate</p><p>Juzgado 02 Administrativo:&nbsp; &nbsp; Dra. Lina Paola Aranguren Espitia&nbsp;</p><p>Juzgado 03 Administrativo:&nbsp; &nbsp; Dra. Martha Lucia Mogollon Saker</p><p>Juzgado 04 Administrativo:&nbsp; &nbsp; Dr. Edwin Burgos Fuentes</p><p>Juzgado 05 Administrativo:&nbsp; &nbsp; Dra. Lorena Cecilia Mosquera Chaparro</p><p>Juzgado 06 Administrativo: &nbsp; &nbsp;Dra. Maria Adalgiza Caceres</p><p>Juzgado 07 Administrativo: &nbsp; &nbsp;Juan Manuel Noguera</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-15",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts2-16",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
