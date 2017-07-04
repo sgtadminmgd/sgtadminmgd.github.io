@@ -565,6 +565,7 @@ h6,
   background-color: #ffffff;
 }
 
+
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -633,21 +634,17 @@ h6,
 #menu-o .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box8-v .mbr-section-title,
-#msg-box8-v p {
+#msg-box8-19 .mbr-section-title,
+#msg-box8-19 p {
   color: #fff;
 }
-#msg-box8-v .mbr-section-title {
-  font-size: 46px;
+#msg-box8-19 .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#content2-13 BLOCKQUOTE {
   font-size: 36px;
-  color: #ffffff;
-  text-align: center;
 }
-#content2-13 P {
-  font-size: 36px;
+#msg-box8-19 .lead P {
+  font-size: 25px;
+  font-family: 'Lora', serif;
 }
 #contacts2-p UL {
   color: #c0a375;

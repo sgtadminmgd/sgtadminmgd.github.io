@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Jueces.html",
+    "currentPage": "Funcionarios.html",
     "name": "Tribunal Administrativo del Magdalena",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -459,7 +459,12 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-size": "25px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -468,13 +473,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-v",
+          "_anchor": "msg-box8-19",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/106479502-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "bgVideo": {
@@ -482,38 +487,15 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false
           },
-          "title": "MAGISTRADOS DEL TRIBUNAL ADMINISTRATIVO DEL MAGDALENA",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "MAGISTRADOS TRIBUNAL ADMINISTRATIVO DEL MAGDALENA<br><br>",
+          "text": "<p>Actualmente el Tribunal Administrativo del Magdalena se encuentra conformado de la siguiente forma:<span style=\"line-height: 1.5;\">&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p>Dra. Maribel Mendoza Jimenez</p><p>Presidente del Tribunal Administrativo del Magdalena</p><p>Magistrada Despacho 03</p><p>------------------------------------------------------------</p><p>Dra. Maria Victoria Quiñonez Triana</p><p>Magistrada Despacho 01</p><p>------------------------------------------------------------</p><p>Dr. Adonay Ferrari Padilla</p><p>Magistrado Despacho 02</p><p>------------------------------------------------------------</p><p>Dr. Dexter Emilio Cuello</p><p>Magistrado Despacho 04</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-13",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<blockquote><p>Actualmente, el Tribunal Administrativo del Magdalena se encuentra conformado de la siguiente forma:</p><p><br></p><p><br></p><p>Dra. Maribel Mendoza Jimenez</p><p>Presidente del Tribunal Administrativo</p><p>Magistrada del Despacho 03</p><p><br></p><p>------------------------------------------</p><p><br></p><p>Dra. Maria Victoria Quiñones Triana</p><p>Magistrada del Despacho 01</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Adonay Ferrari Padilla</p><p>Magistrado del Despacho 02</p><p><br></p><p>-----------------------------------------</p><p><br></p><p>Dr. Dexter Emilio Cuello</p><p>Magistrado del Despacho 04</p><p><br></p><p><br></p></blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "36px",
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "P": {
-              "font-size": "36px"
-            }
-          }
         },
         {
           "_tags": [
