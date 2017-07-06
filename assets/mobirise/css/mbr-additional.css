@@ -490,13 +490,17 @@ h6,
   color: #c0a375;
 }
 
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
+
+#content5-1a .mbr-section-title,
+#content5-1a p {
+  color: #fff;
 }
-#header3-g H3 {
-  color: #ffffff;
+#content5-1a .mbr-section-title {
+  text-align: center;
   font-family: 'Merriweather', serif;
+}
+#content5-1a P {
+  font-family: 'Lora', serif;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
