@@ -902,6 +902,7 @@ h6,
 #contacts2-16 UL {
   color: #c0a375;
 }
+
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -969,6 +970,17 @@ h6,
 #menu-y .close-icon::before,
 #menu-y .close-icon::after {
   background-color: #ffffff;
+}
+#msg-box3-1c .mbr-section-title,
+#msg-box3-1c p {
+  color: #000;
+}
+#msg-box3-1c .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box3-1c .lead P {
+  color: #ffffff;
 }
 #contacts2-z UL {
   color: #c0a375;

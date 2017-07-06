@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/antiguo-128x128.png",
     "noImageResize": ""
@@ -1263,25 +1263,47 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Media.html\">Media</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1b",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c",
           "_params": {
-            "showText": true
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
-          "text": "Sesion del Consejo de Estado ."
+          "title": "Media<br><br>",
+          "text": "<p>Siga la transmision del evento: \"Diálogo con las Regiones 2017\" en el Marco del Bicentenario del Consejo de Estado haciendo click en el boton.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://streaming.unimagdalena.edu.co/index2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Transmisión</a>"
         },
         {
           "_tags": [
