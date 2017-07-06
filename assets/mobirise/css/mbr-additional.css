@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
 
@@ -415,7 +415,7 @@ h6,
   opacity: 0 !important;
 }
 #header1-6 .mbr-section-title {
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
   font-size: 60px;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -489,12 +489,14 @@ h6,
 #contacts2-9 UL {
   color: #c0a375;
 }
+
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
   text-align: center;
 }
 #header3-g H3 {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -639,8 +641,8 @@ h6,
   color: #fff;
 }
 #msg-box8-19 .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 36px;
+  font-family: 'Merriweather', serif;
+  font-size: 48px;
   color: #ffffff;
 }
 #msg-box8-19 .lead P {
@@ -651,6 +653,7 @@ h6,
 #contacts2-p UL {
   color: #c0a375;
 }
+
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -724,10 +727,12 @@ h6,
 }
 #form1-12 .mbr-section-title {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #contacts2-11 UL {
   color: #c0a375;
 }
+
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -799,6 +804,9 @@ h6,
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {
   color: #fff;
+}
+#msg-box8-n .mbr-section-title {
+  font-family: 'Merriweather', serif;
 }
 #contacts2-k UL {
   color: #c0a375;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contactenos.html",
+    "currentPage": "index.html",
     "name": "Tribunal Administrativo del Magdalena",
     "theme": {
       "name": "mobirise3",
@@ -46,8 +46,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "60px"
             }
           },
@@ -216,7 +216,9 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "_tags": [
@@ -459,9 +461,9 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "48px",
               "color": "#ffffff"
             },
             ".lead P": {
@@ -642,7 +644,9 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "_anchor": "form1-12",
@@ -829,6 +833,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "_tags": [
