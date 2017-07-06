@@ -167,7 +167,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Media.html\">Media</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -871,8 +871,38 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/bicentenario-2000x1418.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bicentenario01-2000x1799.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/bicentenario02-2000x2332.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -978,7 +1008,7 @@
             "showButton": false
           },
           "title": "JUECES JUZGADOS ADMISNISTRTIVOS<br><br>",
-          "text": "<br><p>Juzgado 01 Administrativo: &nbsp; &nbsp;Dra. Saine Mendoza Oñate</p><p>Juzgado 02 Administrativo:&nbsp; &nbsp; Dra. Lina Paola Aranguren Espitia&nbsp;</p><p>Juzgado 03 Administrativo:&nbsp; &nbsp; Dra. Martha Lucia Mogollon Saker</p><p>Juzgado 04 Administrativo:&nbsp; &nbsp; Dr. Edwin Burgos Fuentes</p><p>Juzgado 05 Administrativo:&nbsp; &nbsp; Dra. Lorena Cecilia Mosquera Chaparro</p><p>Juzgado 06 Administrativo: &nbsp; &nbsp;Dra. Maria Adalgiza Caceres</p><p>Juzgado 07 Administrativo: &nbsp; &nbsp;Juan Manuel Noguera</p>",
+          "text": "<br><p>Juzgado 01 Administrativo: &nbsp; &nbsp;Dra. Saine Mendoza Oñate</p><p>Juzgado 02 Administrativo:&nbsp; &nbsp; Dra. Lina Paola Aranguren Espitia&nbsp;</p><p>Juzgado 03 Administrativo:&nbsp; &nbsp; Dra. Martha Lucia Mogollon Saker</p><p>Juzgado 04 Administrativo:&nbsp; &nbsp; Dr. Edwin Burgos Fuentes</p><p>Juzgado 05 Administrativo:&nbsp; &nbsp; Dra. Lorena Cecilia Mosquera&nbsp;</p><p>Juzgado 06 Administrativo: &nbsp; &nbsp;Dra. Maria Adalgiza Caceres</p><p>Juzgado 07 Administrativo: &nbsp; &nbsp;Juan Manuel Noguera</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1071,7 +1101,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tribunal Administrativo<br> del Magdalena</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Media.html\">Media</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NOSOTROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Historia.html\">Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Funcionarios.html\">Magistrados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jueces.html\">Jueces Administrativos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Relatoria.html\">Relatoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Eventos.html\">Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactenos.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
