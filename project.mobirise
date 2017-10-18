@@ -1350,6 +1350,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": 3,
@@ -1365,9 +1370,9 @@
                 "overlayOpacity": "0",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "OCTUBRE<br><br>",
+                "title": "OCTUBRE 2017<br><br>",
                 "showText": true,
-                "text": "17/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal+administrativo+del+magdalena_17-10-2017.pdf/690adcdc-912e-4282-91ad-6152d666942f\" target=\"_blank\">ESTADO 157</a><br>",
+                "text": "17/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal+administrativo+del+magdalena_17-10-2017.pdf/690adcdc-912e-4282-91ad-6152d666942f\" target=\"_blank\">ESTADO 157</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 18/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_18-10-2017.pdf/e5b4c4f4-2a1c-4d7b-889d-0ab996885c2e\">ESTADO 158</a><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1377,12 +1382,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1j",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "36px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
