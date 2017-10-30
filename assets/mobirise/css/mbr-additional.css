@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -985,6 +986,7 @@ h6,
 #contacts2-z UL {
   color: #c0a375;
 }
+
 #slider-1j H2 {
   font-size: 36px;
 }
@@ -992,6 +994,7 @@ h6,
   font-size: 24px;
   color: #ffffff;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;

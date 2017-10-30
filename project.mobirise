@@ -1357,7 +1357,9 @@
             "P": {
               "font-size": "24px",
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_params": {
