@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 56,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/antiguo-128x128.png",
     "noImageResize": ""
   },
@@ -53,25 +53,25 @@
           },
           "_anchor": "header1-6",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif1.gif",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "C:\\Users\\lpachece\\Desktop\\VID_20170614_104014.mp4"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.5"
           },
           "title": "TRIBUNAL ADMINISTRATIVO DEL MAGDALENA<br><br><br>",
           "text": "Una corporación al servicio de la ciudadanía.",
@@ -137,17 +137,17 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -186,13 +186,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -233,22 +233,22 @@
           "_name": "content5",
           "_anchor": "content5-1a",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "5",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/plaza_de_la_catedral-2000x1263.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5
           },
           "title": "Reseña Histórica del Tribunal Administrativo del Magdalena<br><br>",
           "caption": "<p>La jurisdicción contencioso administrativa de Colombia nació con la creación del H. Consejo de Estado por decreto por parte del Libertador Simón Bolívar, siendo establecida su conformación con un Decreto Orgánico, estableciendo que el cuerpo colegiado estaría integrado por el Presidente del Consejo de Ministros, los Ministros Secretarios de Estado, y al menos un Consejero por cada uno de los departamentos de la época, y le fue asignada como función preparar todos los decretos y reglamentos expedidos por el Jefe de Estado.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">La alta corporación sería abolida con el advenimiento de la Constitución de la República de Nueva Granada, en 1846, siendo restablecido durante la presidencia de Rafael Núñez con la Constitución de 1886; y abolido una vez más por parte del General Rafael Reyes mediante el Acto Reformatorio No. 10 de 1905.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Luego de este proceso de creación y supresión, durante la administración del señor Presidente Carlos E. Restrepo se expidió el acto legislativo No. 3 de 1910, que creó nuevamente la Jurisdicción de lo Contencioso Administrativo con las siguientes características:</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">a) El Consejo de Estado se componía de seis miembros elegidos por la Corte Suprema de Justicia, y se crearon 8 tribunales contencioso-administrativos seccionales (Bogotá, Bucaramanga, Cartagena, Medellín, Pasto, Popayán, Ibagué y Tunja), cuyos magistrados ejercían su investidura por un periodo de seis años.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">b) El periodo de los magistrados del Consejo es de cuatro años, renovables cada dos años. Debe recordarse que la jurisdicción de lo Contencioso Administrativo, según los términos de la reforma de 1886, se encontraba supeditada a la expedición de la Ley que la creara.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Este proyecto de ley fue presentado de forma oportuna y dio origen a uno de los debates más importantes de que se tenga noticia en los anales del Congreso de la República. En ese orden, la Ley 130 de 1913 organizó sus funciones y procedimientos; instalándose solemnemente el Consejo de Estado el día 17 de diciembre de 1914, con la presencia del señor Presidente de la República de la época, JOSE VICENTE CONCHA FERREIRA, del gabinete ministerial, y de todos los dignatarios de la Nación.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">La citada ley estableció además la competencia de los Tribunales Administrativos del País, incluyendo al Tribunal Administrativo de Cartagena, corporación integrada por cinco magistrados, con jurisdicción en Atlántico, Bolívar, Magdalena, Chocó, San Andrés y Providencia, y Guajira.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Posteriormente, a través de la Ley 25 de 1928, se ordenó la creación de un tribunal administrativo por cada departamento; disponiendo igualmente que los tribunales de Barranquilla, Cali, Cúcuta, Neiva y Santa Marta empezarían sus funciones desde el 1 de agosto de dicho año, iniciando así la Historia de esta Corporación.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El Tribunal Administrativo de Santa Marta, como se denominó inicialmente, se encontraba integrado por los magistrados CRISTÓBAL GARCÍA y ROBERTO MARTÍNEZ ROBLES; y cuando se tratara de asuntos electorales y especiales, fungía adicionalmente como tal el Dr. RAFAEL CAMPO A., representante de las minorías liberales. Esta Corporación ha contado con Magistrados destacados como los doctores ROBERTO CASTAÑEDA OROZCO, RAFAEL RODRÍGUEZ IGLESIAS HERNANDO ROBLES POSADA; y los doctores LUIS HERNANDO VAN-STRAHLEN PEDRAZA, HERNANDO VIVES FERNANDEZ DE CASTRO, éstos últimos que fungieron como magistrados para el año 1978.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El Consejo de Estado, mediante Acuerdo No. 36 de 10 de noviembre de 1992, nombró como Magistrada de la Corporación a la doctora MARTHA ISABEL CASTAÑEDA CURVELO, quien se posesionó el 24 de noviembre de 1992. A partir de ese nombramiento, el Tribunal Administrativo del Magdalena se integró con tres (3) magistrados. De igual manera, el primer magistrado que ocupó el cargo en propiedad después de superar el respectivo concurso de méritos fue el doctor JUAN ALBERTO POLO FIGUEROA, que alcanzaría posteriormente la dignidad de Consejero de Estado, y actualmente funge como conjuez de esta Corporación.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Empero, ante la gran cantidad de procesos adelantados en la Corporación, el Consejo Superior de la Judicatura a través del Acuerdo PSAA11-8369 de 2011 creó un Despacho de Magistrado en Descongestión, cargo ocupado inicialmente por el doctor CARLOS MARIO ARANGO HOYOS, y a partir del 2012, por la doctora VIVIANA MERCEDES LÓPEZ RAMOS; siendo creado otro Despacho de Magistrado en Descongestión a través del Acuerdo PSAA13-10072, para el cual sería nombrado el doctor GONZALO BECHARA OSPINA, reemplazado posteriormente por el doctor DEXTER CUELLO VILLARREAL; única ocasión en la historia de la Corporación en la cual la misma se integraba por cinco (5) magistrados.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">No obstante, el 29 de enero de 2015, el Consejo Superior de la Judicatura emitió el Acuerdo No. PSAA15-10288, en el cual se dispuso la prórroga en la Corporación de un Despacho de Descongestión de Magistrado, determinando la eliminación del Despacho en Descongestión No. 2; y por el Acuerdo No. PSAA15-10402 de 29 de octubre de 2015, la Alta Corporación convirtió el Despacho en Descongestión en permanente, ocupado actualmente en provisionalidad por el Doctor DEXTER CUELLO VILLARREAL.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Igualmente, también han desempeñado la magistratura en este Tribunal los doctores JOSE MANUEL DIAZGRANADOS DIAZGRANADOS, CARLOS CABALLERO BAENA, LUIS ERNESTO ARCINIEGAS TRIANA, ROXANA ANGULO MUÑOZ, y EDGAR ALEXI VÁSQUEZ CONTRERAS, encontrándose la Corporación actualmente integrada por su Presidente, doctora MARIBEL MENDOZA JIMÉNEZ, su Vicepresidente, doctor DEXTER EMILIO CUELLO VILLARREAL, y por los magistrados doctores MARIA VICTORIA QUIÑONES TRIANA, y ADONAY FERRARI PADILLA.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Es preciso anotar que con la promulgación de la Ley 1437 de 2011, se dispuso la creación del Sistema de Oralidad en la Jurisdicción Contencioso Administrativa, y se ordenó el tránsito de sistema de forma progresiva en los diferentes Despachos de tal especialidad en el País. Así, a través del Acuerdo PSAA12-9444 de mayo 22 de 2012, emanado del Consejo Superior de la Judicatura, ingresaron al Nuevo Sistema Oral el Despacho No. 001 de esta Corporación, cuya titular es la Doctora MARIA VICTORIA QUIÑONES TRIANA; y los Juzgados 3°, 5°, 6° y 7°Administrativo, siendo redistribuidos los procesos escriturales entre los juzgados y despachos del Tribunal que aún se encontraban en dicho sistema, esto es, en los Despachos Permanentes 002 y 003, y el No. 751, creado en Descongestión.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Posteriormente, con el Acuerdo No. PSAA14-10156 se asignó a partir del 16 de junio de 2014 el conocimiento de asuntos regidos por el Sistema Oral al Despacho No. 003 del Tribunal Administrativo del Magdalena, en ese momento ocupado por el doctor EDGAR ALEXI VÁZQUEZ CONTRERAS; y a través del Acuerdo No. PSAA15-10385 de 23 de septiembre de 2015, ingresó a la Oralidad el Despacho No. 002, cuyo titular es el Dr. ADONAY FERRARI PADILLA; quedando a cargo de todos los procesos iniciados y tramitados en vigencia del Decreto 01 de 1984 el Despacho No. 004, bajo la dirección del Dr. DEXTER EMILIO CUELLO VILLARREAL.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Igualmente, el Tribunal cuenta con un grupo de veinte (20) destacados juristas de la localidad, quienes fungen como conjueces, prestando una vital labor de apoyo a la Corporación en la administración de justicia; al conocer, tramitar y fallar aquellos procesos en los términos del artículo 115 de la Ley 1437 de 2011.&nbsp;</span><br></p>"
@@ -313,17 +313,17 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -355,13 +355,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -441,17 +441,17 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -497,23 +497,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-19",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/106479502-2000x1500.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.9"
           },
           "title": "MAGISTRADOS TRIBUNAL ADMINISTRATIVO DEL MAGDALENA<br><br>",
           "text": "<p>Actualmente el Tribunal Administrativo del Magdalena se encuentra conformado por los Sigientes Magistrados:<span style=\"line-height: 1.5;\">&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p>Dra. Maribel Mendoza Jimenez</p><p>Presidente&nbsp;</p><p>Magistrada Despacho 03</p><p>-----------------------------------------------------------</p><p>Dr. Dexter Emilio Cuello</p><p>Vicepresidente</p><p>Magistrado Despacho 04</p><p>-----------------------------------------------------------</p><p>Dr. Adonay Ferrari Padilla</p><p>Magistrado Despacho 02</p><p>-----------------------------------------------------------</p><p>Dra. Maria Victoria Quiñonez Triana</p><p>Magistrada Despacho 01</p><p><br></p><p><br></p>",
@@ -534,13 +534,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -620,17 +620,17 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -669,19 +669,19 @@
           },
           "_anchor": "form1-12",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#ffffff",
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Quejas y Sugerencias",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -729,13 +729,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -815,17 +815,17 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -863,23 +863,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-n",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "<br>EVENTOS TRIBUNAL ADMINISTRATIVO",
           "text": "",
@@ -892,8 +892,11 @@
           "_name": "slider3",
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#2e2e2e",
             "timeout": 5,
             "slides": [
               {
@@ -941,10 +944,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#2e2e2e",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider3-14",
           "articleLayout": false
@@ -964,13 +964,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -1015,23 +1015,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-18",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/edificiogalaxia-2000x1055.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.8"
           },
           "title": "JUECES JUZGADOS ADMINISTRATIVOS<br><br>",
           "text": "<br><p>Juzgado 01 Administrativo: &nbsp; &nbsp;Dra. Saine Mendoza Oñate</p><p>Juzgado 02 Administrativo:&nbsp; &nbsp; Dra. Lina Paola Aranguren Espitia&nbsp;</p><p>Juzgado 03 Administrativo:&nbsp; &nbsp; Dra. Martha Lucia Mogollon Saker</p><p>Juzgado 04 Administrativo:&nbsp; &nbsp; Dr. Edwin Burgos Fuentes</p><p>Juzgado 05 Administrativo:&nbsp; &nbsp; Dra. Lorena Cecilia Mosquera&nbsp;</p><p>Juzgado 06 Administrativo: &nbsp; &nbsp;Dra. Maria Adalgiza Caceres</p><p>Juzgado 07 Administrativo: &nbsp; &nbsp;Juan Manuel Noguera</p>",
@@ -1097,17 +1097,17 @@
           "_name": "menu",
           "_anchor": "menu-15",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1144,13 +1144,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -1230,17 +1230,17 @@
           "_name": "menu",
           "_anchor": "menu-y",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1283,23 +1283,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1c",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "5",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bicentenario-2000x1418.png",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": "0.9"
           },
           "title": "Media<br><br>",
           "text": "<p>Siga la transmision del evento: \"Diálogo con las Regiones 2017\" en el Marco del Bicentenario del Consejo de Estado haciendo click en el boton.</p>",
@@ -1320,13 +1320,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
@@ -1362,8 +1362,11 @@
           },
           "_params": {
             "autoplay": false,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -1377,14 +1380,11 @@
                 "showTitle": true,
                 "title": "OCTUBRE 2017<br><br>",
                 "showText": true,
-                "text": "<p>17/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal+administrativo+del+magdalena_17-10-2017.pdf/690adcdc-912e-4282-91ad-6152d666942f\" target=\"_blank\" class=\"text-primary\">ESTADO 157</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 18/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_18-10-2017.pdf/e5b4c4f4-2a1c-4d7b-889d-0ab996885c2e\" class=\"text-primary\">ESTADO 158</a><br>19/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_19-10-2017.pdf/5388b15d-450f-4c90-9297-5a961cb68bce\" class=\"text-primary\">ESTADO 159</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 23/10/2017 - <a href=\"https://www.ramajudicial.gov.co./documents/2220876/14814025/tribunal_administrativo_del_magdalena_23-10-2017.pdf/8a268763-409c-4988-a049-eda4987380d6\" class=\"text-primary\">ESTADO 160</a><br>24/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_24-10-2017.pdf/0f005a37-4d6f-4fc2-95d1-bc1f68b083c2\" class=\"text-primary\">ESTADO 161</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_25-10-2017.pdf/da158588-ae89-42c8-9995-dceeaa931363\" class=\"text-primary\">ESTADO 162</a>&nbsp;<span style=\"line-height: 1.5;\">26/10/2017 - </span><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\"><a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_26-10-2017+%281%29.pdf/03dc5538-7d21-4dbc-89c4-6c5697c03ab9\" class=\"text-primary\" style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\">ESTADO 163</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 27/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_27-10-2017.pdf/7c17d133-851c-44f5-ad02-9ed39dbf54e1\" class=\"text-primary\">ESTADO 164</a></span></p>",
+                "text": "<p>17/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal+administrativo+del+magdalena_17-10-2017.pdf/690adcdc-912e-4282-91ad-6152d666942f\" target=\"_blank\" class=\"text-primary\">ESTADO 157</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 18/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_18-10-2017.pdf/e5b4c4f4-2a1c-4d7b-889d-0ab996885c2e\" class=\"text-primary\">ESTADO 158</a><br>19/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_19-10-2017.pdf/5388b15d-450f-4c90-9297-5a961cb68bce\" class=\"text-primary\">ESTADO 159</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 23/10/2017 - <a href=\"https://www.ramajudicial.gov.co./documents/2220876/14814025/tribunal_administrativo_del_magdalena_23-10-2017.pdf/8a268763-409c-4988-a049-eda4987380d6\" class=\"text-primary\">ESTADO 160</a><br>24/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_24-10-2017.pdf/0f005a37-4d6f-4fc2-95d1-bc1f68b083c2\" class=\"text-primary\">ESTADO 161</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_25-10-2017.pdf/da158588-ae89-42c8-9995-dceeaa931363\" class=\"text-primary\">ESTADO 162</a>&nbsp; &nbsp;<span style=\"line-height: 1.5;\">26/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_26-10-2017+%281%29.pdf/03dc5538-7d21-4dbc-89c4-6c5697c03ab9\">ESTADO 163</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 27/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_27-10-2017.pdf/7c17d133-851c-44f5-ad02-9ed39dbf54e1\">ESTADO 164</a>&nbsp; 30/10/2017 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/14814025/tribunal_administrativo_del_magdalena_30-10-2017.pdf/664d66c9-10ab-4999-bacf-cf20228bee05\">ESTADO 165</a></span></p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-1j",
           "articleLayout": false
@@ -1449,17 +1449,17 @@
           "_name": "menu",
           "_anchor": "menu-1d",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1498,13 +1498,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Calle 20 No 2A-20 Santa Marta.",
               "placeId": "ChIJZ0_2knz19I4RJEdDLOHDQhY",
