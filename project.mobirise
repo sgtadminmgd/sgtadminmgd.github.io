@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Estados.html",
     "name": "Tribunal Administrativo del Magdalena",
     "theme": {
       "name": "mobirise3",
@@ -1384,6 +1384,21 @@
             "slides": [
               {
                 "active": true,
+                "image": "@PROJECT_PATH@/assets/images/background-2000x1333.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ENERO 2018<br><br>",
+                "showText": true,
+                "text": "<p>11/01/2018 - <a href=\"https://www.ramajudicial.gov.co/documents/2220876/15719194/tribunal_administrativo_del_magdalena_11-01-2018.pdf/c832fcd2-00b5-46cf-8d92-0f997af189a7\">ESTADO 001</a><br></p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/background-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
